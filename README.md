@@ -1,7 +1,9 @@
 # JOGO RICK AND MORTY: Adivinhe o Personagem
-
 ---
-
+![img](http://bg1.png)
+![stack Overflow](bg1.png)
+![Screenshot](bg1.png)
+https://github.com/RogerCamposj/601---Rick-and-morty---api/blob/master/images/bg%201.jpg
 ## Linguagens utilizadas
 
 * HTML
