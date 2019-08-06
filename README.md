@@ -1,4 +1,4 @@
-# JOGO DO ADIVINHA RICK AND MORTY
+# JOGO RICK AND MORTY: Adivinhe o Personagem
 
 ---
 
@@ -10,14 +10,14 @@
 
 ---
 
-### FERRAMENTAS UTILIZADAS
+### Ferramentas utilizadas
 
 * utilizamos em css display flex e propriedades de edição
 * em javascript, utilizamos e FUNCTION
 
 ---
 
-### COMO JOGAR
+### Ccomo jogar
 
 Clicar no botão iniciar, logo em seguida irá apacer uma imagem aleatoria
 na barra para escrever digite o nome do personagem que apareceu na imagem abaixo
@@ -26,7 +26,7 @@ se não você perderá 1 ponto
 
 ---
 
-### API UTILIZADA
+### API utilizada
 
 A API de Rick and Morty (ou ShlaAPI) é uma API RESTful e GraphQL baseada na série de TV Rick and Morty. Atravéz dela temos acesso á centenas de personagens presentes na série.
 
